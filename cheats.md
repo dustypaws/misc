@@ -5,6 +5,7 @@
       * `sudo fuser -k 8080/tcp`
 
 # Tmux
-  * Vim gets stuck
-    * you've entered Flowmode, you f00l! __Ctrl + s__
-    * quit Flowmode with __Ctrl + q__
+  ## Vim-Related
+    * Vim gets stuck
+      * you've entered Flowmode, you f00l! __Ctrl + s__
+      * quit Flowmode with __Ctrl + q__
